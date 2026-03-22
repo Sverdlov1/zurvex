@@ -1,39 +1,24 @@
 # Zurvex 💱
 
-Universal Unit & Currency Converter — Evrensel Birim ve Döviz Dönüştürücü
+Universal Unit & Currency Converter
 
-## Özellikler
+Instantly convert between currencies, length, weight, temperature, speed, area, volume, data, and time units — all in one sleek app.
 
-- 💱 Döviz çevirme (16 para birimi)
-- 📏 Uzunluk, ağırlık, sıcaklık dönüşümleri
-- 💨 Hız, alan, hacim, veri, zaman dönüşümleri
-- 🌗 Açık / Koyu tema desteği
-- 📱 Mobil uyumlu tasarım (PWA)
-- ⚡ Anlık dönüşüm ve formül gösterimi
+## Features
 
-## Kurulum (Kendi Bilgisayarında Çalıştırmak İçin)
+- 💱 Currency conversion (16 currencies with live rates coming soon)
+- 📏 Length, weight & temperature conversions
+- 💨 Speed, area, volume, data & time conversions
+- 🌗 Light / Dark theme toggle
+- 📱 Mobile-first design (PWA ready)
+- ⚡ Instant results with formula display
 
-```bash
-npm install
-npm run dev
-```
-
-Tarayıcında `http://localhost:5173` adresine git.
-
-## Yayınlama (Vercel ile)
-
-1. Bu repo'yu GitHub'a yükle
-2. vercel.com'da "New Project" de
-3. GitHub repo'nu seç
-4. "Deploy" butonuna bas
-5. Siten hazır! 🎉
-
-## Teknolojiler
+## Tech Stack
 
 - React 18
 - Vite 5
 - PWA (Progressive Web App)
 
-## Lisans
+## License
 
 MIT
